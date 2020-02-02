@@ -14,16 +14,23 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+######Sumary
+####What i have leared of markdown
+Markdown is a good languge and easy to learn in fact it's much simple if i want to compare it with css,so what i have learned:
+-paregraph
+-headers
+-orderd and unordered lists
+-lists
+-how can i modify my text
+##Now i will show some of what i leared by introducing myself
+My name is **osama mousa**
+I am an *arcitect*
+***I love science***
+>Here a pic
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://www.for9a.com/images/blog/2019/05/26/640x360-3chilliwack-scienceworldontheroad.png](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
