@@ -30,7 +30,7 @@ I am an *arcitect*
 
 
 
-[https://www.for9a.com/images/blog/2019/05/26/640x360-3chilliwack-scienceworldontheroad.png](url) and ![Image](src)
+ ![Image](https://www.for9a.com/images/blog/2019/05/26/640x360-3chilliwack-scienceworldontheroad.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
