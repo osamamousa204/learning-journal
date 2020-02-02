@@ -1,13 +1,13 @@
-##### Sumarry
+##### Sumarry <h6>
 ### What i have leared
 
 Markdown is a good languge and easy to learn in fact it's much simple if i want to compare it with css,so what i have learned:
 
-*paregraph
-*headers
-*orderd and unordered lists
-*lists
-*how can i modify my text
+* paregraph
+* headers
+* orderd and unordered lists
+* lists
+* how can i modify my text
 
 ## Now i will show some of what i leared by introducing myself
 My name is **osama mousa**
