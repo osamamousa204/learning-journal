@@ -13,3 +13,5 @@ Briefly Git is a DVCS that stores data in a file system made up of snapshots. Ea
 * By using git remote -v, you can view all the remote URLs next to their corresponding short names.
 
 **I tried it and it worked fine with me**
+----------------------------
+[Back to home page](https://osamamousa204.github.io/learning-journal/)
