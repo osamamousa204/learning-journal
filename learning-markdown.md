@@ -19,6 +19,3 @@ Now lits see some examble Respectively :
  Html          | mysql
  
  
- ### 3
- 
- [facebook](https://www.google.com/aclk?sa=l&ai=DChcSEwjLzqrr8bLnAhUR5HcKHYcNAJYYABAAGgJlZg&sig=AOD64_0J8SK4mUJU2l-ecj8sLX2KuCiHkA&q=&ved=2ahUKEwiLs6Xr8bLnAhWqM-wKHdfPDYcQ0Qx6BAgPEAE&adurl=)

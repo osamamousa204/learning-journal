@@ -16,3 +16,10 @@ I am an *arcitect*
 >Here a pic
 
 ![science](https://www.for9a.com/images/blog/2019/05/26/640x360-3chilliwack-scienceworldontheroad.png)
+
+### Links
+pages              | Links
+-------------------|---------------------------------------------------------------------------------
+Learning-marckdown | [Press here](https://osamamousa204.github.io/learning-journal/learning-markdown)
+-------------------|---------------------------------------------------------------------------------
+Text-editors       | [Press here](https://osamamousa204.github.io/learning-journal/Text-editors)
