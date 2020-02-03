@@ -20,5 +20,5 @@ typed. This saves you time and effort
  **There is a text editor comes with my pc on mac _text edit_ on win version _notepad_**
  
  **also we can downlode another text editor from the internet**
- 
+ -------------
  [Back to home page](https://osamamousa204.github.io/learning-journal/)
