@@ -20,7 +20,7 @@ I am an *arcitect*
 ## Links
 
 pages              | Links
----------------|--------------------------------------------------------------------
+---------------    |--------------------------------------------------------------------
 Learning-marckdown | [Press here](https://osamamousa204.github.io/learning-journal/learning-markdown)
 -------------------|-----------------------------------------------------------------------------
 Text-editors       | [Press here](https://osamamousa204.github.io/learning-journal/Text-editors)
