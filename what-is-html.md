@@ -1,4 +1,4 @@
-# How do we begin our web design project??
+# A brief of How do we begin our web design project??
 * Frist of all you have to know your Audience like thier age  for a man or a women or mix Which country do your visitors live in etc...
 
 * Why People Visit YOUR Website so Your content and design should
