@@ -1,4 +1,4 @@
-# How do compuyers work??
+# How do computers work??
 
 ### Well to answer this question we need to know :
 what makes a computer a computer? 
