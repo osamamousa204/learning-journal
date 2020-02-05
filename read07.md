@@ -22,4 +22,37 @@
         attributes to trigger new CSS rules
         for those elements
       * Change the size or position of an
-        <img> element
+        <img> element.
+  ## The ABS of programming
+      ### A :
+              What is a script and how do I create one?
+                *A script is a series of instructions that a
+                 computer can follow to achieve a goal.
+                *To write a script, you need to first
+                  state your goal and then list the
+                  tasks that need to be completed in
+                  order to achieve it by :
+                    1.  DEFINE THE GOAL
+                    2.  DESIGN THE SCRIPT 
+                    3. CODE EACH STEP
+  
+      ### B :
+              How do computers fit in with the world around them?
+              
+      ### C :
+              How do I write a script for a web page? 
+              
+  ### The summry
+   * A script is a series of instructions that the computer
+     can follow in order to achieve a goal.
+      Each time the script runs, it might only use a subset of
+    all the instructions.
+   * Computers approach tasks in a different way than
+      humans, so your instructions must let the computer
+      solve the task prggrammatically.
+   * To approach writing a script, break down your goal into
+      a series of tasks and then work out each step needed
+      to complete that task (a flowchart can help)              
+              
+  
+  
