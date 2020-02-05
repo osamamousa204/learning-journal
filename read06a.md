@@ -18,4 +18,4 @@ The function is invoked (called) when a button is clicked:
  * JavaScript Can Change HTML Styles (CSS)
  * JavaScript Can Hide HTML Elements
  * JavaScript Can Show HTML Elements
- * 
+ 
