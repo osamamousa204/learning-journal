@@ -53,7 +53,18 @@
       solve the task prggrammatically.
    * To approach writing a script, break down your goal into
       a series of tasks and then work out each step needed
-      to complete that task (a flowchart can help)              
+      to complete that task (a flowchart can help) 
+      
+      # EXPRESSIONS 
+An expression evaluates into (results in) a single value. Broadly speaking
+there are two types of expressions. 
+      1. EXPRESSIONS THAT JUST ASSIGN A
+          VALUE TO A VARIABLE 
+      2. EXPRESSIONS THAT USE TWO OR
+          MORE VALUES TO RETURN A
+        SINGLE VALUE
+     # 
+
               
   
   
