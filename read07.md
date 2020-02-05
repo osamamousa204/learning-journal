@@ -23,7 +23,7 @@
         for those elements
       * Change the size or position of an
         <img> element.
-  ## The ABS of programming
+  ## The ABS of programming.
   
   ### A :
               What is a script and how do I create one?
