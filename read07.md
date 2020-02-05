@@ -24,7 +24,8 @@
       * Change the size or position of an
         <img> element.
   ## The ABS of programming
-      ### A :
+  
+  ### A :
               What is a script and how do I create one?
                 *A script is a series of instructions that a
                  computer can follow to achieve a goal.
@@ -36,13 +37,13 @@
                     2.  DESIGN THE SCRIPT 
                     3. CODE EACH STEP
   
-      ### B :
+  ### B :
               How do computers fit in with the world around them?
               
-      ### C :
+ ### C :
               How do I write a script for a web page? 
               
-  ### The summry
+ ### The summry
    * A script is a series of instructions that the computer
      can follow in order to achieve a goal.
    * Each time the script runs, it might only use a subset of
